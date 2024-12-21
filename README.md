@@ -8,3 +8,18 @@
 ![zellor-mc](https://github.com/user-attachments/assets/e764fe1e-15aa-4cf1-826f-9f1ca9251550)
 ## Agent Finder Page
 ![zellor-af](https://github.com/user-attachments/assets/7df1caea-e67c-4158-b2f4-dedb3910f576)
+
+# Tools And Technlogies 
+## Front-End
+- Javascript
+- React JS
+- Tailwind CSS
+- ShadCn
+## Back-End
+- Node Js
+- Express Js
+- MongoDB
+## Blockchain
+- Solidity
+- HardHat
+- Ether Js
